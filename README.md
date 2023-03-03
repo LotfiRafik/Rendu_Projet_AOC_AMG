@@ -1,6 +1,8 @@
 #################### Contenu de l'archive ###################
 
-Ce dossier contient les différents executables de notre code en version séquentielle ainsi que la version parallele:
+Le lien suivant contient l'executable de notre code:
+
+https://github.com/LLNL/AMG/
 
 1-version sequentielle:
   *le nom de l'executable:
@@ -17,7 +19,7 @@ Ce dossier contient les différents executables de notre code en version séquen
   
   
 
-2-version optmiser:
+2-version optimisée:
 
   *le nom de l'executable: 
  
