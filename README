@@ -4,8 +4,9 @@ Le lien suivant contient l'executable de notre code:
 
 https://github.com/LLNL/AMG/
 
-1-version sequentielle:
-  *le nom de l'executable:
+###1-version sequentielle:
+
+  test/amg:
   
   *description: cette executable représente la version séquentielle sans aucunne optimisation.
   
